@@ -1,3 +1,9 @@
+streamlit-javascript
+streamlit
+google-genai
+python-docx
+pypdf
+st-copy-to-clipboard
 streamlit
 google-genai
 python-docx
